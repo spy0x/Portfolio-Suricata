@@ -1,11 +1,4 @@
-﻿
-/*
-
-¡Bienvenido a mi hoja de estilo infernal y caótica, plebeyo!
- MUAJAJAJAJA
-
-*/
-body * {
+﻿body * {
  margin: 0;
  border: 0;
  padding: 0;
@@ -13,7 +6,7 @@ body * {
 body {
  background: #000000;
  color: white;
- font-family: 'Raleway', sans-serif;
+ font-family: 'Open Sans', sans-serif;
  font-weight: 300;
  width: 1280px;
  text-align: center;
