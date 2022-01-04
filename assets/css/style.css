@@ -47,3 +47,7 @@ header h1 {
  color: white;
  margin-right: 10px;
 }
+footer {
+ height: 184px;
+ background-color: #E83E8C;
+}
