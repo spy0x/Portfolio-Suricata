@@ -33,3 +33,17 @@ header h1 {
 .card img{
  width: 100%;
 }
+#pay-methods {
+ background-color: #17A2B8;
+ height: 170px;
+}
+#pay-methods h1{
+ font-size: 40px;
+ font-weight: 700;
+}
+.icons {
+ font-size: 60px;
+ display: inline-block;
+ color: white;
+ margin-right: 10px;
+}
